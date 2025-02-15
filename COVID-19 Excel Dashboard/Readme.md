@@ -18,7 +18,7 @@ The project focuses on tracking and visualizing COVID-19 cases and deaths global
 
 ## Dashboard Preview
 Below is a snapshot of the Excel dashboard created for this project:
-![Madhav E-Commerce Sales Dashboard](https://github.com/amitkr209/Excel_Projects/blob/main/Madhav%20E-Commerce%20Sales%20Excel%20Dashboard/images/Dashboard%20Image.png)
+![Covid 19 excel Dashboard](https://github.com/amitkr209/Excel_Projects/blob/main/COVID-19%20Excel%20Dashboard/images/Dashboard.png)
 
 
 ## 🔍 Dashboard Features
