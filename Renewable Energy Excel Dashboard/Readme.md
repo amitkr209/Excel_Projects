@@ -1,4 +1,4 @@
-"# 🌱 Renewable Energy Excel Dashboard
+# 🌱 Renewable Energy Excel Dashboard
 
 ## 📊 Overview
 This Excel-based Renewable Energy Dashboard provides a detailed analysis of global renewable energy trends, highlighting capacity, consumption, investments, and job distribution as of 2019. The dashboard also includes a drill-down feature for regional insights.
@@ -37,33 +37,66 @@ This project analyzes renewable energy data to understand global and regional pa
 
 ## Dashboard Preview
 Below is a snapshot of the Excel dashboard created for this project:
-Dashboard
-![Dashboard](amitkr209/Excel_Projects/Renewable Energy Excel Dashboard/images/Screenshot 2025-02-16 174927.png)
+![Dashboard](https://github.com/amitkr209/Excel_Projects/blob/main/Renewable%20Energy%20Excel%20Dashboard/images/Screenshot%202025-02-16%20174927.png)
+![Drilldown](https://github.com/amitkr209/Excel_Projects/blob/main/Renewable%20Energy%20Excel%20Dashboard/images/Screenshot%202025-02-16%20175033.png)
 
-Drilldown
-![Drilldown](amitkr209/Excel_Projects/Renewable Energy Excel Dashboard/images/Screenshot 2025-02-16 175033.png)
+## Main Dashboard Insights:
 
-## 🔑 Key Insights
+**Renewable Capacity Growth (MW):**
 
-1. **Renewable Capacity Growth**
-   - Continuous growth in global renewable capacity, with a sharp increase post-2010.
-   - **Solar Energy** experienced the highest growth rate, surpassing other sources.
+- Significant growth in renewable energy capacity from 2000 to 2019.
+- Hydropower has remained dominant, but solar and wind energy have seen substantial growth post-2010.
+- The rise in "Other" sources indicates increasing diversification in renewable energy.
 
-2. **Energy Consumption Trends**
-   - **Traditional biofuels** dominate consumption despite renewable growth.
-   - **Wind and solar** consumption increased significantly from 2015 onwards.
+**Global Consumption Trends:**
 
-3. **Investment Analysis**
-   - **Brazil (2013)**, **France (2014)**, and **Nigeria (2016)** are notable top investors.
-   - **Nigeria** led with **$4961 million** in investments in 2016.
+- Traditional biofuels dominated energy consumption until mid-2000s.
+- A noticeable shift towards wind, solar, and other renewables in the last decade.
+- The steep increase in renewable consumption suggests global commitment to clean energy.
 
-4. **Regional Insights**
-   - **China** dominates capacity trends, particularly in solar and hydropower.
-   - **Europe** shows a consistent increase in wind energy capacity.
+**Top 5 Investment Countries (US$ Million):**
 
-5. **Job Distribution**
-   - **Solar Energy** employs the most workers globally.
-   - **Asia** leads in renewable energy employment, especially in China and India.
+- Brazil (2013) and France (2014) saw high investments in renewable energy.
+- Nigeria recorded the highest investment in 2017, with $4961M.
+- Developing regions like Africa and Asia are becoming key players in renewable investments.
+
+**Jobs in Renewable Energy:**
+
+- The job market in renewable sectors has steadily grown from 2012 to 2018.
+- Solar energy leads in employment, followed by wind and bioenergy.
+- Investments in renewable energy directly correlate with employment growth.
+
+**Regional Renewable Energy Adoption:**
+
+- Asia and Europe have the highest renewable energy adoption.
+- Africa shows increasing potential, with rising investments in solar energy.
+
+## Drilldown Dashboard Insights (Regional Focus 2019):
+
+**Renewable Capacity by Region:**
+
+- China leads in renewable energy capacity globally.
+- North America and Europe continue to maintain high renewable energy capacities.
+- Africa and South America exhibit growth potential for future investments.
+
+**Renewable vs. Non-Renewable Energy Generation:**
+
+- A steady increase in renewable energy generation, especially solar energy.
+- Non-renewable sources show a slight decline, indicating a gradual energy transition.
+
+**Capacity Trends by Top 5 Countries:**
+
+- United States: Consistent growth across years, primarily in solar and wind energy.
+- China: Exponential growth, particularly in solar energy.
+- Japan: Gradual increase with solar energy dominating recent growth.
+- India: Rapid growth since 2015, focusing heavily on solar power.
+- Russia: Limited growth, primarily focusing on hydropower.
+
+**Regional Insights:**
+
+- Asia: Leading the global renewable energy shift.
+- Europe: Steady growth with a balanced focus on solar and wind.
+- Africa: Emerging growth potential driven by international investments.
 
 ## 📢 Recommendations
 
